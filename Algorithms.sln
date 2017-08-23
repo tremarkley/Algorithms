@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinCuts", "MinCuts\MinCuts.csproj", "{2273A84A-A5B4-423C-9A73-A46CB97A9ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{08B1FB3E-A023-40F2-A0FC-D3CC9260997C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversions", "Inversions\Inversions.csproj", "{9D86C7DA-D169-45E5-A540-515579E5B559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2273A84A-A5B4-423C-9A73-A46CB97A9ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2273A84A-A5B4-423C-9A73-A46CB97A9ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2273A84A-A5B4-423C-9A73-A46CB97A9ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2273A84A-A5B4-423C-9A73-A46CB97A9ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B1FB3E-A023-40F2-A0FC-D3CC9260997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B1FB3E-A023-40F2-A0FC-D3CC9260997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B1FB3E-A023-40F2-A0FC-D3CC9260997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B1FB3E-A023-40F2-A0FC-D3CC9260997C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D86C7DA-D169-45E5-A540-515579E5B559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D86C7DA-D169-45E5-A540-515579E5B559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D86C7DA-D169-45E5-A540-515579E5B559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D86C7DA-D169-45E5-A540-515579E5B559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
